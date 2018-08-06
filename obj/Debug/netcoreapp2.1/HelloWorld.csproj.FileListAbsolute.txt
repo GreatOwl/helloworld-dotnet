@@ -1,0 +1,14 @@
+/Users/andrew/code/dotnet/projects/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/Users/andrew/code/dotnet/projects/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/Users/andrew/code/dotnet/projects/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/Users/andrew/code/dotnet/projects/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/andrew/code/dotnet/projects/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/andrew/code/dotnet/projects/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/andrew/code/dotnet/projects/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.RazorAssemblyInfo.cache
+/Users/andrew/code/dotnet/projects/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.RazorAssemblyInfo.cs
+/Users/andrew/code/dotnet/projects/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/andrew/code/dotnet/projects/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/Users/andrew/code/dotnet/projects/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.RazorTargetAssemblyInfo.cache
+/Users/andrew/code/dotnet/projects/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/andrew/code/dotnet/projects/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/andrew/code/dotnet/projects/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojResolveAssemblyReference.cache
